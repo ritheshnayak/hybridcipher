@@ -132,7 +132,7 @@ Special thanks to the open-source community for tools like `numpy` and `sympy`, 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [@yritheshnayak](https://github.com/ritheshnayak)
+- **GitHub**: [@ritheshnayak](https://github.com/ritheshnayak)
 - **Email**: rithesh.maira45@gmail.com
 
 Happy coding! 🔐
